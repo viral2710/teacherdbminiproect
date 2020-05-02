@@ -1,0 +1,7 @@
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.vcxprojAssemblyReference.cache
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.main.resources
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.vcxproj.GenerateResource.cache
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.insert.resources
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.display.resources
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.del.resources
+C:\Users\viral\source\repos\teacherdb\teacherdb\Debug\teacherdb.search.resources
